@@ -1,9 +1,8 @@
 ### Olá! Eu sou o Kauan Victor 🤙
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-nunes-souza-769978150/)
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=kauan-victor-souza&show_icons=true&theme=tokyonight">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-victor-souza&layout=compact&langs_count=7&theme=tokyonight">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauan-victor-souza&show_icons=true&theme=tokyonight">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-victor-souza&layout=compact&langs_count=7&theme=tokyonight">
 </div>
 
 <div style="display: inline_block"><br/>
