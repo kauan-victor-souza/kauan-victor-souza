@@ -1,17 +1,30 @@
 ### Olá! Eu sou o Kauan Victor 🤙
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-nunes-souza-769978150/)
+
+##
+
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauan-victor-souza&show_icons=true&theme=tokyonight">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-victor-souza&layout=compact&langs_count=7&theme=tokyonight">
+    <a href="https://github.com/kauan-victor-souza">    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauan-victor-souza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-victor-souza&layout=compact&langs_count=7&theme=tokyonight">
 </div>
 
+<div style="display: inline_block"><br/>  
+  <img align="center" alt="html5" src="https://icongr.am/devicon/html5-original.svg?size=80&color=currentColor" />
+  <img align="center" alt="css3" src="https://icongr.am/devicon/css3-original.svg?size=80&color=currentColor"/>
+  <img align="center" alt="javascript" src="https://icongr.am/devicon/javascript-original.svg?size=80&color=currentColor"/>
+  <img align="center" alt="angular" src="https://icongr.am/devicon/angularjs-original.svg?size=80&color=currentColor" />
+  <img align="center" alt="java" src="https://icongr.am/devicon/java-original-wordmark.svg?size=90&color=currentColor"/>
+  <img align="center" alt="html5" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=80&color=currentColor" />  
+</div>
+    
+##
 <div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <a href="https://www.linkedin.com/in/kauan-souza-769978150"><img alt="linkedin-kauan" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:k1one.g.vitor@gmail.com"> <img alt="gmail-kauan" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.facebook.com/profile.php?id=100014852826767"> <img alt="facebook-kauan" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+    <a href="https://www.instagram.com/k1one.victor/"> <img alt="instagram-kauan" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
-
+    
 ![Snake animation](https://github.com/kauan-victor-souza/kauan-victor-souza/blob/output/github-contribution-grid-snake.svg)
 
 
