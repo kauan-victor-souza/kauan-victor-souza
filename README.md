@@ -1,4 +1,4 @@
-### Olá! Eu sou o Kauan Victor 🤙
+### Olá! Eu sou o Kauan Victor
 
 ##
 
